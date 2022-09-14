@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment - Zbigniew Lisak</string>
+    <string name="title_home">Home</string>
+    <string name="title_paths">Paths</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="new_path">New Path</string>
+    <string name="add_photos">Add photos</string>
+    <string name="set_title">Choose title for the path</string>
+    <string name="notification_title">Tracking path</string>
+    <string name="notification_message">A path is being recorded, tap to view</string>
+    <string name="ticker_text">Ticker?</string>
+    <string name="channel_name">PathTracking</string>
+    <string name="channel_description">Tracking path, tap to see</string>
+    <string name="title_activity_track_path">TrackPathActivity</string>
+</resources>
